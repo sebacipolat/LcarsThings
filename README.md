@@ -1,9 +1,8 @@
-# LcarsThings
+# LCARS Things
 A single sample of an Star Trek TNG LCARS Interface for Android Thins
 
 <img src='https://thegeekkitty.files.wordpress.com/2018/05/tng-logo.jpg?w=470&h=279g'/>
 
-## DeliveryYa
 ###### by Sebastian Cipolat
 [@seba_cipolat](http://twitter.com/seba_cipolat)
 
@@ -12,10 +11,19 @@ A single sample of an Star Trek TNG LCARS Interface for Android Thins
 [sebastiancipolat Linkedin](www.linkedin.com/in/sebastiancipolat)
 
 
-DeliveryYa is a single Android Instant App Example
+What is a Lcar? 
+In the Star Trek fictional universe, LCARS (an acronym for Library Computer Access/Retrieval System)
+is a computer operating system. 
+Within Star Trek chronology, the term was first used in the Star Trek: The Next Generation series.
+
+<img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Enterprise-E_LCARS.jpg/220px-Enterprise-E_LCARS.jpg'/>
 
 
-## Download 
+## PREVIEW 
+
+
+<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg'/>
+
 <p>
 <a href='https://play.google.com/store/apps/details?id=com.cipolat.deliveryya'>
 <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100"/>
