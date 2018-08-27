@@ -1,5 +1,8 @@
 # LCARS Things
 A single sample of an Star Trek TNG LCARS Interface for Android Things
+ 
+**UNDER DEVELOPMENT**
+
 
 <img src='https://thegeekkitty.files.wordpress.com/2018/05/tng-logo.jpg?w=470&h=279g'/>
 
@@ -32,7 +35,8 @@ Within Star Trek chronology, the term was first used in the Star Trek: The Next 
 The board used was an Android Things with i.MX 7Dual and i.MX 8M|NXP kit
 
  **EXTERNAL RESOURCES**
-The font used from here <a href=' https://gtjlcars.de/LCARSindex/LCARSFONTS.htm'>Lcars Fonts </a>
+The font used from 
+<a href=' https://gtjlcars.de/LCARSindex/LCARSFONTS.htm'>Lcars Fonts </a>
 
 **FeedBack**
 
