@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LcarsThings</string>
+    <string name="online_lbl">LCARS ONLINE</string>
+    <string name="ufp_logo_descrtprin">UNITED FEDERATION OF PLANETS</string>
+
+
+    <string name="main_title_lbl">INCOMING TRANSMISSION</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:orientation="horizontal">
+
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="0.3"
+        android:layout_height="match_parent"
+        android:background="@drawable/round_indicator_left_blue" />
+
+    <cipolat.com.lcarsthings.CustomViews.LcarTextView
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="4dp"
+        android:gravity="center"
+        android:paddingBottom="1dp"
+        android:lines="1"
+        android:text="@string/online_lbl"
+        android:textColor="@color/lcar_yellow_text"
+        android:textSize="37sp"
+        />
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="7"
+        android:layout_height="match_parent"
+        android:background="@color/ligth_blue_top_indicator" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="0.3"
+        android:layout_marginStart="6dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/round_indicator_rigth" />
+</LinearLayout>

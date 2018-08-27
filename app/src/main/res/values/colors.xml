@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_backgrnd">#000000</color>
+    <color name="ligth_blue_top_indicator">#9e9cff</color>
+    <color name="ligth_blue_bottom_indicator">#9d9dff</color>
+
+    <color name="lcar_yellow">#fbb000</color>
+    <color name="lcar_yellow_text">#fdab07</color>
+    <color name="lcar_blue_text_">#6969a9</color>
+
+
+</resources>

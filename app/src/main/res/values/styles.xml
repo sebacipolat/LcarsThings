@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar.Fullscreen" />
+
+    <style name="StarTrek">
+        <item name="android:fontFamily">@font/lcars_font</item>
+
+    </style>
+
+</resources>
