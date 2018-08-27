@@ -1,5 +1,5 @@
 # LCARS Things
-A single sample of an Star Trek TNG LCARS Interface for Android Thins
+A single sample of an Star Trek TNG LCARS Interface for Android Things
 
 <img src='https://thegeekkitty.files.wordpress.com/2018/05/tng-logo.jpg?w=470&h=279g'/>
 
@@ -22,7 +22,7 @@ Within Star Trek chronology, the term was first used in the Star Trek: The Next 
 ## PREVIEW 
 
 
-<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg'/>
+<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg' heigth=250/>
 
 <p>
 <a href='https://play.google.com/store/apps/details?id=com.cipolat.deliveryya'>
