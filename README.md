@@ -36,8 +36,9 @@ The idea is an incoming message screen
 The board used was an Android Things with i.MX 7Dual and i.MX 8M|NXP kit
 
  **EXTERNAL RESOURCES**
-The font used from 
-<a href=' https://gtjlcars.de/LCARSindex/LCARSFONTS.htm'>Lcars Fonts </a>
+The font used from:
+
+<a href='https://gtjlcars.de/LCARSindex/LCARSFONTS.htm'>Lcars Fonts</a>
 
 **FeedBack**
 
