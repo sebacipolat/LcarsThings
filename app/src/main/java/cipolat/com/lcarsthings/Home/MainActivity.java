@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main);
         mainLbl = findViewById(R.id.mainLbl);
-        //mainLbl.startBlink();
+        mainLbl.startBlink();
     }
 
 }
