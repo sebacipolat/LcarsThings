@@ -27,7 +27,6 @@ Within Star Trek chronology, the term was first used in the Star Trek: The Next 
 <img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/demo.gif' height="450"/>
 
 The idea is an incoming message screen
-<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg' height="250"/>
 
 
 <a href='https://www.youtube.com/watch?v=HXeVBFuPPxs'>Watch Example Video </a>
