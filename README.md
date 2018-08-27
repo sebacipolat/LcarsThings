@@ -25,7 +25,7 @@ Within Star Trek chronology, the term was first used in the Star Trek: The Next 
 ## PREVIEW 
 
 
-<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg' height="350"/>
+<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/demo.gif' height="350"/>
 
 
 <a href='https://www.youtube.com/watch?v=HXeVBFuPPxs'>Watch Example Video </a>
