@@ -22,60 +22,18 @@ Within Star Trek chronology, the term was first used in the Star Trek: The Next 
 ## PREVIEW 
 
 
-<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg' heigth=250/>
-
-<p>
-<a href='https://play.google.com/store/apps/details?id=com.cipolat.deliveryya'>
-<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100"/>
-</a>
-</p>  
-
-## Test as Instant App
- <a href='https://pedidosonline-357d1.firebaseapp.com/deliveryya/order?id=112233445566'>Click this link to launch</a>
+<img src='https://github.com/sebacipolat/LcarsThings/blob/master/resources_repo/preview.jpg' height="350"/>
 
 
-<a href='https://www.youtube.com/watch?v=0zLxNS-ePYYs'>Watch Example Video </a>
+<a href='https://www.youtube.com/watch?v=HXeVBFuPPxs'>Watch Example Video </a>
  
+ **Hardware**
 
-## BEFORE RUN
+The board used was an Android Things with i.MX 7Dual and i.MX 8M|NXP kit
 
-This app use as data sources Firebase Realtime Database
+ **EXTERNAL RESOURCES**
+The font used from here <a href=' https://gtjlcars.de/LCARSindex/LCARSFONTS.htm'>Lcars Fonts </a>
 
-Import json file from bd_firebase/pedidosonline-357d1-export.json into your firebase database
-
-Reeplace the google-services.json with your own files
-
-## Home
-<img src='https://github.com/sebacipolat/DeliveryYa/blob/master/ImagesGithub/home.png' height="350"/>
-
-
-## Order Detail
-
-<img src='https://github.com/sebacipolat/DeliveryYa/blob/master/ImagesGithub/pizza.png' height="350"/>
-
-## Technologies
-This is a simple example I only use firebase, appcompat,glide.
-
-Butterknife, databinding was not used due issues related to feature modules and google play
-
-## Architecture
-
-<p>Normally an app will be like that, all  together into an unique application module.</p>
-<img src='https://github.com/sebacipolat/DeliveryYa/blob/master/ImagesGithub/app.png' height="350"/>
-
-Instant apps is based on split the app in multiple modules by function o feature.
-
-<img src='https://github.com/sebacipolat/DeliveryYa/blob/master/ImagesGithub/modules.png' height="450"/>
-
-The app is componed by this modules:
-
-deliveryya-based: Base Feature Module, has all the common code use by the other modules.
-deliveryya-home:  Home Screen Feature Module
-deliveryya-order: Order Detail Screen Feature Module
-
-deliveryya-app:   Installed Application Module
-deliveryya-instant:Instant app Module
-  
 **FeedBack**
 
   Please feel free to report bugs, suggestion,etc. I'll be pending.
